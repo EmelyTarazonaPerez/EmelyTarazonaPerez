@@ -24,7 +24,6 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/JulianRivers)
 
 
-<summary>My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
 <p align="center">
   <a href="https://github.com/EmelyTarazonaPerez">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmelyTarazonaPerez&theme=transparent" />
